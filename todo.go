@@ -70,7 +70,7 @@ func (todos *Todos) edit(index int, title string) error {
 func (todos *Todos) print() {
 	table := table2.New(os.Stdout)
 	table.SetRowLines(false)
-	table.SetHeaders("Title", "Completed", "Created At", "Completed At")
+	table.SetHeaders("Index", "Title", "Completed", "Created At", "Completed At")
 	for i, t := range *todos {
 		completed := "❌"
 		completedAt := ""

@@ -60,7 +60,8 @@ func (cf *cmdFlags) execute(todos *Todos) {
 			return
 		}
 	default:
-		fmt.Println("Invalid Command")
+		todos.print()
+		fmt.Println("You did not pass a flag.")
 	}
 
 }

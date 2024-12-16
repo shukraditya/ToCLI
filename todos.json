@@ -2,19 +2,36 @@
     {
         "Title": "Buy FIFA 23",
         "Completed": true,
+        "DueDate": null,
         "CreatedAt": "2024-12-15T07:03:43.108187184+05:30",
         "CompletedAt": "2024-12-15T07:03:43.108192352+05:30"
     },
     {
         "Title": "Buy PS5",
         "Completed": false,
+        "DueDate": null,
         "CreatedAt": "2024-12-15T07:03:43.108189978+05:30",
         "CompletedAt": null
     },
     {
-        "Title": "Play fifa 22 first",
+        "Title": "LOVE TO PARU",
         "Completed": false,
-        "CreatedAt": "2024-12-15T07:32:33.357491579+05:30",
+        "DueDate": null,
+        "CreatedAt": "2024-12-16T00:04:35.467524857+05:30",
+        "CompletedAt": null
+    },
+    {
+        "Title": "task due tuesday",
+        "Completed": false,
+        "DueDate": null,
+        "CreatedAt": "2024-12-16T11:42:53.861633488+05:30",
+        "CompletedAt": null
+    },
+    {
+        "Title": "buy milk",
+        "Completed": false,
+        "DueDate": "2024-12-16T23:59:00+05:30",
+        "CreatedAt": "2024-12-16T14:20:07.97810033+05:30",
         "CompletedAt": null
     }
 ]
